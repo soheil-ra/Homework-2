@@ -5,7 +5,7 @@
 
 ## **Table of Content**<br>
 
-ReadMe contains the following areas:
+ReadMe contains the following sections:
 
 **1. Overview -** [Overview](https://github.com/soheil-ra/Homework-2#Overview)<br>
 **2. Goals -** [Goal](https://github.com/soheil-ra/Homework-2#Goals)<br>
