@@ -16,7 +16,18 @@ This assignment contains the following areas:
 
 **5. Dataset in Repo.-** <br>
 **6. Code -** <br>
-**7. Images -** <br>
+**7. Images -** [Images](https://github.com/soheil-ra/Homework-2/tree/main/Images#Images)<br>
+
+ <br>
+
+<ol>
+  <li><a href=https://github.com/Lwhieldon/OnlineRetailCustomerSegmentation/blob/main/online_retail_II.xlsx>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
+  <li><a href=https://github.com/Lwhieldon/OnlineRetailCustomerSegmentation/blob/main/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
+  <li> <a href=https://github.com/Lwhieldon/OnlineRetailCustomerSegmentation/blob/main/code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. </li>
+  <li> <a href=https://github.com/Lwhieldon/OnlineRetailCustomerSegmentation/blob/main/utils.py>utils.py:</a> .py file to store functions I use throughout the project to make notebooks & summary report clean. </li>
+</ol>
+
+
 
 ## **Overview**<br>
 <br>
