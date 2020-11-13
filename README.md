@@ -30,7 +30,7 @@ The achivement for this project is:<br><br>
 Businesses around the world would like to understand customer purchasing behavior with the goal of maximizing the value (revenue and/or profit) from each customer. it is critical to know in advance how any particular marketing action will influence the customer. Accurate customer segmentation allows marketers to engage with each customer in the most effective way and by segmenting them they will decide how to relate to customers in each segment in order to maximize the value of each customer to the business. A customer segmentation analysis allows marketers to identify discrete groups of customers with a high degree of accuracy based on demographic, behavioral and other indicators. Ideally, such “action-centric” customer segmentation will not focus on the short-term value of a marketing action, but rather the long-term customer lifetime value (CLV) impact that such a marketing action will have. Thus, it is necessary to group, or segment, customers according to their CLV.
 <br>
 
-![RFM-Methedology1-](https://user-images.githubusercontent.com/71153587/99128713-8ab23d80-25d9-11eb-8705-b461aa030db0.jpg)
+![RFM-Methedology1-](https://user-images.githubusercontent.com/71153587/99128713-8ab23d80-25d9-11eb-8705-b461aa030db0.jpg)<br>
 
 
 
