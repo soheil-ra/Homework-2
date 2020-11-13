@@ -3,10 +3,10 @@
 
 ReadMe Contants:
 
-**1. Overview -** [Overview](https://github.com/soheil-ra/Heart-Disease#Overview)<br>
-**2. Goals -** [Goal](https://github.com/soheil-ra/Heart-Disease#Goals)<br>
-**3. Motivation & Background -** [Motivation & Background](https://github.com/soheil-ra/Heart-Disease#Motivation-and-Background)<br>
-**4. Data -** [Data](https://github.com/soheil-ra/Heart-Disease#Data)<br>
+**1. Overview -** [Overview](https://github.com/soheil-ra/Homework-2#Overview)<br>
+**2. Goals -** [Goal](https://github.com/soheil-ra/Homework-2#Goals)<br>
+**3. Motivation & Background -** [Motivation & Background](https://github.com/soheil-ra/Homework-2#Motivation-and-Background)<br>
+**4. Data -** [Data](https://github.com/soheil-ra/Homework-2#Data)<br>
 
 This assignment contains the following areas:
 
