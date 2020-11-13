@@ -24,7 +24,9 @@ Customer segmentation is the action of breaking your customer base into groups d
 <br>
 
 ## **Goals**<br>
-The goal is to do customer segmentation analysis by looking at information that we have at our disposal and analyzing it for customer segment trends.The achivement for this assignment are:<br><br>
+The goal is to do customer segmentation analysis by looking at information that we have at our disposal and analyzing it for customer segment trends.<br>
+
+I try to achivement the followings for this assignment:<br><br>
 **1. Preparing Data -** This section includes, Cleaning, Exploring and Visulizing data.<br>
  **2. Proposing Methods & Experiments -** To perform customer segmentation I will utilize RFM modeling to calculate the RFM scores for each customer and then will apply unsupervised ML technique (k-Means) to group the customers into different segments based on calculated RFM scores.<br>
  
