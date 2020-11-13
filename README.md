@@ -19,12 +19,20 @@ This assignment contains the following areas:
 **7. Images -** [Images](https://github.com/soheil-ra/Homework-2/tree/main/Images#Images)<br>
 
 ## **Overview**<br>
+**What is Customer Segmentation?**<br>
+Customer segmentation is the action of breaking your customer base into groups depending on demographic, psychographic, etc. Segmentation is mostly used for marketing, but there are other reasons to segment your customer base. Using customer segmentation in marketing means that you can target the right people with the right messaging about your products. This will increase the success of your marketing campaigns. 
 <br>
 
 ## **Goals**<br>
-The achivement for this project is:<br><br>
+The goal is to do customer segmentation analysis by looking at information that we have at our disposal and analyzing it for customer segment trends.The achivement for this assignment are:<br><br>
 **1. Preparing Data -** This section includes, Cleaning, Exploring and Visulizing data.<br>
-**2. Proposing Methods & Experiments -**<br>
+ **2. Proposing Methods & Experiments -** To perform customer segmentation I will utilize RFM modeling to calculate the RFM scores for each customer and then will apply unsupervised ML technique (k-Means) to group the customers into different segments based on calculated RFM scores.<br>
+ 
+RFM stands for Recency, Frequency and Monetary.<br>
+
+**Recency -** How recently a customer purchase an item or product. The more the recent purchases the better the score would be.<br>
+**Frequency -** How often a customer purchases an item or product. The more frequent they purchase the better score would be.<br>
+**Monetary -** How much the customer spends. The more he spends the better score would be.<br>
 
 ## **Motivation and Background**<br>
 Businesses around the world would like to understand customer purchasing behavior with the goal of maximizing the value (revenue and/or profit) from each customer. it is critical to know in advance how any particular marketing action will influence the customer. Accurate customer segmentation allows marketers to engage with each customer in the most effective way and by segmenting them they will decide how to relate to customers in each segment in order to maximize the value of each customer to the business. A customer segmentation analysis allows marketers to identify discrete groups of customers with a high degree of accuracy based on demographic, behavioral and other indicators. Ideally, such “action-centric” customer segmentation will not focus on the short-term value of a marketing action, but rather the long-term customer lifetime value (CLV) impact that such a marketing action will have. Thus, it is necessary to group, or segment, customers according to their CLV.
