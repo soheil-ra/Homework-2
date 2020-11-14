@@ -16,7 +16,7 @@ ReadMe contains the following sections:
 
 This assignment contains the following areas:
 
-**5. Dataset - [Dataset Link](https://www.kaggle.com/sergeymedvedev/customer_segmentation#Dataset)** <br>
+**5. Dataset -** [Dataset Link](https://www.kaggle.com/sergeymedvedev/customer_segmentation#Dataset) <br>
 **6. Code -** <br>
 **7. Images -** [Images](https://github.com/soheil-ra/Homework-2/tree/main/Images#Images)<br>
 
