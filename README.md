@@ -1,7 +1,9 @@
 # Customer Segmentation
 
-![1_4dmSXX3KvDoWQ7WNi09wJQ](https://user-images.githubusercontent.com/71153587/99128766-b03f4700-25d9-11eb-8c59-d7fb269acb8c.png)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71153587/99128766-b03f4700-25d9-11eb-8c59-d7fb269acb8c.png" width="200" height="200" />
+</p>
 
 ## **Table of Content**<br>
 
