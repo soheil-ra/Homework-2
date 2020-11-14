@@ -48,7 +48,7 @@ Businesses around the world would like to understand customer purchasing behavio
 </p>
 
 ## **Data**
-The dataset have been collected from Kaggle (https://www.kaggle.com/sergeymedvedev/customer_segmentation), consisting of 100515 records of customers and 8 attributes.<br>
+The dataset have been collected from Kaggle (https://www.kaggle.com/sergeymedvedev/customer_segmentation), consisting of 541910 records of customers and 8 attributes. The dataset contains transaction dates between 01/12/2010 and 9/12/2011.<br>
 
 Attribute Information:<br>
 **1. InvoiceNo -** Invoice number. A 6-digit integral number uniquely assigned to each transaction. (Numerical) <br>
