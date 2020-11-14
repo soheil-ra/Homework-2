@@ -22,13 +22,13 @@ This assignment contains the following areas:
 
 ## **Overview**<br>
 **What is Customer Segmentation?**<br>
-Customer segmentation is the action of breaking your customer base into groups depending on demographic, psychographic, etc. Segmentation is mostly used for marketing, but there are other reasons to segment your customer base. Using customer segmentation in marketing means that you can target the right people with the right messaging about your products. This will increase the success of your marketing campaigns. 
+Customer segmentation is the action of breaking customers base into groups depending on demographic, psychographic, etc. Segmentation is mostly used for marketing, but there are other reasons to segment customers base as well. Using customer segmentation in marketing means that we can target the right people with the right messaging about our products. This will increase the success of our marketing campaigns. When we perform customer segmentation, we find similar characteristics in each customer's behaviour and needs. Then, those are generalized into groups to satisfy demands with various strategies.
 <br>
 
 ## **Goals**<br>
 The goal is to do customer segmentation analysis by looking at information that we have at our disposal and analyzing it for customer segment trends.<br>
 
-I try to achivement the followings for this assignment:<br>
+I try to achive the followings for this assignment:<br>
 
 **1. Preparing Data -** This section includes, Cleaning, Exploring and Visulizing data.<br>
 **2. Proposing Methods & Experiments -** To perform customer segmentation I will utilize RFM modeling to calculate the RFM scores for each customer and then will apply unsupervised ML technique (k-Means) to group the customers into different segments based on calculated RFM scores.<br>
