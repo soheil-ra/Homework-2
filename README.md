@@ -52,13 +52,13 @@ The dataset have been collected from Kaggle (https://www.kaggle.com/sergeymedved
 
 Attribute Information:<br>
 **1. InvoiceNo -** Invoice number. A 6-digit integral number uniquely assigned to each transaction. (Numerical) <br>
-**2. StockCode -** Product (item) code. A 5-digit integral number uniquely assigned to each distinct product. (Numerical) <br>
-**3. Description -** Product (item) name. (Numerical) <br>
-**4. Quantity -** The quantities of each product (item) per transaction. (Numerical) <br>
-**5. InvoiceDate -** Invice date and time. The day and time when a transaction was generated. (String Date) <br>
+**2. StockCode -** Product code. A 5-digit integral number uniquely assigned to each distinct product. (Numerical) <br>
+**3. Description -** Product type. (Numerical) <br>
+**4. Quantity -** The quantities of each product per transaction. (Numerical) <br>
+**5. InvoiceDate -** Invoice date and time. Day and time of generated transaction. (String Date) <br>
 **6. UnitPrice -** Unit price. Product price per unit in sterling. (Numerical) <br>
 **7. CustomerID -** Customer number. A 5-digit integral number uniquely assigned to each customer. (Numerical) <br>
-**8. Country -** Country name. The name of the country where a customer resides. (String) <br>
+**8. Country -** Country name. The name of the country where a customer resides. (Categorical) <br>
 <br>
 
 
