@@ -51,12 +51,12 @@ Businesses around the world would like to understand customer purchasing behavio
 The dataset have been collected from Kaggle (https://www.kaggle.com/sergeymedvedev/customer_segmentation), consisting of 541910 records of customers and 8 attributes. The dataset contains transaction dates between 01/12/2010 and 9/12/2011.<br>
 
 Attribute Information:<br>
-**1. InvoiceNo -** Invoice number. A 6-digit integral number uniquely assigned to each transaction. (Numerical) <br>
-**2. StockCode -** Product code. A 5-digit integral number uniquely assigned to each distinct product. (Numerical) <br>
-**3. Description -** Product type. (Numerical) <br>
+**1. InvoiceNo -** Invoice number. The number that uniquely assigned to each transaction. (6 digit Numerical) <br>
+**2. StockCode -** Product code. The number that uniquely assigned to each distinct product. (5 digit Numerical) <br>
+**3. Description -** Product type. (Categorical) <br>
 **4. Quantity -** The quantities of each product per transaction. (Numerical) <br>
 **5. InvoiceDate -** Invoice date and time. Day and time of generated transaction. (String Date) <br>
-**6. UnitPrice -** Unit price. Product price per unit in sterling. (Numerical) <br>
+**6. UnitPrice -** Unit price. Product price per unit. (Numerical) <br>
 **7. CustomerID -** Customer number. A 5-digit integral number uniquely assigned to each customer. (Numerical) <br>
 **8. Country -** Country name. The name of the country where a customer resides. (Categorical) <br>
 <br>
