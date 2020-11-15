@@ -17,16 +17,16 @@ ReadMe contains the following sections:
 This assignment contains the following areas:
 
 **5. Dataset -** [Dataset](https://www.kaggle.com/sergeymedvedev/customer_segmentation#Dataset) <br>
-**6. Code -** [Code](https://github.com/soheil-ra/Homework-2/blob/main/RFM%20%26%20k-Means%20Clustring.ipynb#Code)<br>
+**6. Code -** [Code](https://github.com/soheil-ra/Homework-2/blob/main/RFM%20%26%20k-Means%20Clustring_Report.ipynb#Code)<br>
 **7. Images -** [Images](https://github.com/soheil-ra/Homework-2/tree/main/Images#Images)<br>
 
 ## **Overview**<br>
 **What is Customer Segmentation?**<br>
-Customer segmentation is the action of breaking the customer base into groups depending on demographic, psychographic, etc. Segmentation is mostly used for marketing, but there are other reasons to segment customers as well. Using customer segmentation in marketing means that we can target the right people with the right messaging about our products. This will increase the success of our marketing campaigns. When we perform customer segmentation, we find similar characteristics in each customer's behaviour and needs. Then, those are generalized into groups to satisfy demands with various strategies.
-<br>
+Customer segmentation is the action of breaking the customer base into groups depending on demographic, psychographic, etc. Segmentation is mostly used for marketing, but there are other reasons to segment customers as well. Using customer segmentation in marketing means that we can target the right people with the right messaging about our products. This will increase the success of our marketing campaigns. When we perform customer segmentation, we find similar characteristics in each customer's behaviour and needs. Then, those are generalized into groups to satisfy demands with various strategies.<br>
 
 ## **Goals**<br>
-The goal is to do customer segmentation analysis by looking at information that we have at our disposal and analyzing it for customer segment trends.<br>
+The goal is to do customer segmentation analysis by looking at information that we have at our disposal and analyzing it for customer segment trends. The aim of created notebook is to answer the question, **"Who are the most loyal customers to the businesses?"**. Suppose that we have a company that sells some of the product, and we want to know how well the sales performance of the product is. We have the data that we can analyze, but what kind of analysis that we can perform? We can segment customers based on their shopping behavior on the market. In fact, customer segmentation is a method of dividing customers into groups or clusters on the basis of common characteristics. Businesses around the world would like to understand customer purchasing behavior, so customer segmentation allows them to create personalized offers for each individual group and precisely target the customers who have specific needs and desires. With creating clusters companies might identify new market segments on which they can focus more, as it might be more lucrative. 
+<br>
 
 I try to achive the followings for this assignment:<br>
 
@@ -40,8 +40,7 @@ RFM stands for Recency, Frequency and Monetary.<br>
 **Monetary (M) -** Who have high purchase amount? It means the total money customer spent (high monetary value).<br>
 
 ## **Motivation and Background**<br>
-Businesses around the world would like to understand customer purchasing behavior with the goal of maximizing the value (revenue and/or profit) from each customer. it is critical to know in advance how any particular marketing action will influence the customer. Accurate customer segmentation allows marketers to engage with each customer in the most effective way and by segmenting them they will decide how to relate to customers in each segment in order to maximize the value of each customer to the business. A customer segmentation analysis allows marketers to identify discrete groups of customers with a high degree of accuracy based on demographic, behavioral and other indicators. Ideally, such “action-centric” customer segmentation will not focus on the short-term value of a marketing action, but rather the long-term customer lifetime value (CLV) impact that such a marketing action will have. Thus, it is necessary to group, or segment, customers according to their CLV. Knowing this information, motivated me to choose customer segmentation as subject for my assignment to work on.
-<br>
+Businesses around the world would like to understand customer purchasing behavior with the goal of maximizing the value (revenue and/or profit) from each customer. it is critical to know in advance how any particular marketing action will influence the customer. Accurate customer segmentation allows marketers to engage with each customer in the most effective way and by segmenting them they will decide how to relate to customers in each segment in order to maximize the value of each customer to the business. A customer segmentation analysis allows marketers to identify discrete groups of customers with a high degree of accuracy based on demographic, behavioral and other indicators. Ideally, such “action-centric” customer segmentation will not focus on the short-term value of a marketing action, but rather the long-term customer lifetime value (CLV) impact that such a marketing action will have. Thus, it is necessary to group, or segment, customers according to their CLV. Getting more knowledge about customer segmentation finding it an interesting subject for this assignment. Looking for the right dataset with the right quantity of records and features to yield expected performance outcomes, led me to select this dataset.<br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71153587/99128713-8ab23d80-25d9-11eb-8705-b461aa030db0.jpg"  />
